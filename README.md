@@ -4,6 +4,9 @@ React frontend for the [booking-api](https://github.com/yashvisuals/booking-api)
 appointment booking service. Providers set their availability; customers browse
 free slots (shown in their own timezone) and book them.
 
+**Live demo:** https://booking-web-nine-vert.vercel.app
+_(free tier — the first request may take ~30s while the API wakes up)_
+
 ## Stack
 
 - React + TypeScript (Vite)
